@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BCD4"
+    tools:context=".TelaPagamento">
+
+    <Button
+        android:id="@+id/buttonPlano"
+        android:layout_width="244dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="32dp"
+        android:onClick="btPlanoOnClick"
+        android:text="@string/plano_de_sa_de"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonParticular" />
+
+    <TextView
+        android:id="@+id/textView12333"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/carrinho_de_pagamento"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonParticular"
+        android:layout_width="244dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="120dp"
+        android:onClick="btParticularOnClick"
+        android:text="@string/particular"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/qual_ser_o_m_todo"
+        android:textColor="#000000"
+        app:layout_constraintStart_toStartOf="@+id/textView12333"
+        app:layout_constraintTop_toBottomOf="@+id/textView12333" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

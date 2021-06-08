@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">appClinica1</string>
+    <string name="cadastro_de_novo_usu_rio" />
+    <string name="nome_completo" />
+    <string name="e_mail" />
+    <string name="endere_o" />
+    <string name="endereço">Endereço</string>
+    <string name="cadastro_de_novo_usuario">Cadastro de Novo Usuário</string>
+    <string name="nome_completto">Nome Completo</string>
+    <string name="e_maiel">Email</string>
+    <string name="endereco">Endereço</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+    <string name="telefone">Telefone</string>
+    <string name="cpf">CPF</string>
+    <string name="rg">RG</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="paciente">Paciente</string>
+    <string name="m_dico">Médico</string>
+    <string name="cadastre_uma_nova_senha">Cadastre uma nova senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login_e_mail">Login (e-mail)</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="novo_usu_rio">Novo Usuário</string>
+    <string name="adress">Endereço</string>
+    <string name="logo">TODO</string>
+    <string name="nome">Nome</string>
+    <string name="o_que_deseja_fazer">O que deseja fazer ?</string>
+    <string name="cadastrar_agenda">Cadastrar Agenda</string>
+    <string name="excluir_agenda">Excluir Agenda</string>
+    <string name="pr_ximas_consultas">Próximas Consultas</string>
+    <string name="bem_vindo">Bem Vindo,</string>
+    <string name="bem_vindo2">Bem Vindo !</string>
+    <string name="cadastro_de_nova_agenda">Cadastro de nova agenda</string>
+    <string name="defina_uma_espcialidade">Defina uma espcialidade:</string>
+    <string name="qual_o_endere_o_do_atendimento">Qual o endereço do atendimento?</string>
+    <string name="quais_as_datas_dispon_veis">Quais as datas disponíveis?</string>
+    <string name="quais_hor_rios">Quais horários ?</string>
+    <string name="cadastrar2">Cadastrar</string>
+    <string name="None" />
+    <string name="qual_dia">Qual dia ?</string>
+    <string name="escolha_uma_data">Escolha uma data</string>
+    <string name="escolha_os_hor_rios">escolha os horários</string>
+    <string name="especialidade">Especialidade</string>
+    <string name="dia">Dia</string>
+    <string name="excluir">Excluir</string>
+    <string name="agendar_consulta">Agendar Consulta</string>
+    <string name="excluir_consulta">Excluir Consulta</string>
+    <string name="nova_consulta">Nova Consulta</string>
+    <string name="escolha_a_especialidade_desejada">Escolha a especialidade desejada:</string>
+    <string name="qual_hor_rio">Qual horário?</string>
+    <string name="escolha_um_hor_rio">escolha um horário</string>
+    <string name="agendar">AGENDAR</string>
+    <string name="OK">OK</string>
+    <string name="agendas_cadastradas">Agendas Cadastradas:</string>
+    <string name="escolha_uma_data_dispon_vel">Escolha uma data disponível:</string>
+    <string name="escolha_o_hor_rio_para_o_atendimento">Escolha o horário para o atendimento:</string>
+    <string name="excluir_pr_ximas_consultas">EXCLUIR / PRÓXIMAS CONSULTAS</string>
+    <string name="proximas_consultas">Proximas Consultas:</string>
+    <string name="hora">Hora</string>
+    <string name="carrinho_de_pagamento">Carrinho de Pagamento:</string>
+    <string name="qual_ser_o_m_todo">Qual será o método?</string>
+    <string name="particular">PARTICULAR</string>
+    <string name="plano_de_sa_de">PLANO DE SAÚDE</string>
+    <string name="n_mero_do_cart_o">Número do Cartão:</string>
+    <string name="_0000_0000_0000_0000">0000.0000.0000.0000</string>
+    <string name="nome_impresso_no_cart_o">Nome impresso no cartão:</string>
+    <string name="a">,</string>
+    <string name="data_de_validade">Data de Validade:</string>
+    <string name="mm_aaaa">MM/AAAA</string>
+    <string name="c_digo_de_seguran_a">Código de Segurança:</string>
+    <string name="_000">000</string>
+    <string name="efetuar_pagamento">Efetuar Pagamento</string>
+    <string name="efetuar_solicita_o">Efetuar Solicitação</string>
+    <string-array name="especialidadesLayout">
+        <item>Clinica</item>
+        <item>Pediatria</item>
+        <item>Cardiologia</item>
+        <item>Neurologia</item>
+        <item>Ortopedia</item>
+    </string-array>
+    <string-array name="horasDisponiveis">
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+    </string-array>
+
+</resources>
